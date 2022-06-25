@@ -1,2 +1,4 @@
 # hello-world
-Exploring the intersection of technology, education, and environmental relationships to provide access to education through inclusive environments.
+## I am exploring the intersection of technology, education, and environmental relationships to provide access to education through inclusive environments. 
+Behind my experiences lies my deep belief in the power of relationships, not only the relationships between people, but also in the relationship between individuals and their environments which includes the tools they use, the spaces they interact with, the life experiences they bring, and the historical throughlines of the spaces they inhabit. My deep curiosity of exploring these environmental relationships makes me keenly aware of the distinct and complex qualities that make up the individual parts of these relationships, and I can then create connections that I then use to form teams, solve complex problems, strategize solutions, and transform engagements.
+----
